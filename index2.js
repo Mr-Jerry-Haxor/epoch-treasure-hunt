@@ -4,15 +4,15 @@ function handleSubmit() {
     var clues = [
         {
             "id": "96a3be3cf272e017046d1b2674a52bd3",
-            "value": " the least favorite beverage of the world's best goal scorer"
+            "value": "The least Favourite beverage of the world's best Goal Scorer."
         },
         {
             "id": "a2ef406e2c2351e0b9e80029c909242d",
-            "value": "A passion for justice. The experience of winning"
+            "value": "A passion for justice. The experience of winning. I'd rather die as the Devil than live as Matt Murdock."
         },
         {
             "id": "e45ee7ce7e88149af8dd32b27f9512ce",
-            "value": " I thought I could play with girls around but found kids and People find freedom in different places, kids find it in a playground"
+            "value": "People find freedom in different places, kids find it in a playground"
         },
         {
             "id": "7d0665438e81d8eceb98c1e31fca80c1",
@@ -40,7 +40,7 @@ function handleSubmit() {
         },
         {
             "id": "d3d9446802a44259755d38e6d163e820",
-            "value": "the  place where all the woodpeckers gather around"
+            "value": "Ask ME about my ToolBox at this Bhavan."
         },
         {
             "id": "6512bd43d9caa6e02c990b0a82652dca",
@@ -56,7 +56,7 @@ function handleSubmit() {
         },
         {
             "id": "aab3238922bcc25a6f606eb525ffdc56",
-            "value": "oh my favourite bunking spot! why you hidden in between that little green shades."
+            "value": "A Bazaar in the Gitam Streets."
         },
         {
             "id": "9bf31c7ff062936a96d3c8bd1f8f2ff3",
