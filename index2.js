@@ -12,7 +12,7 @@ function handleSubmit() {
         },
         {
             "id": "e45ee7ce7e88149af8dd32b27f9512ce",
-            "value": " I thought I could play with girls around but found kids"
+            "value": " I thought I could play with girls around but found kids and People find freedom in different places, kids find it in a playground"
         },
         {
             "id": "7d0665438e81d8eceb98c1e31fca80c1",
@@ -44,7 +44,7 @@ function handleSubmit() {
         },
         {
             "id": "6512bd43d9caa6e02c990b0a82652dca",
-            "value": "treasure hunt is not a game that's only  meant to be played outside"
+            "value": "Treasure hunt is not an Outdoor game, that is meant to be played INDOOR."
         },
         {
             "id": "c20ad4d76fe97759aa27a0c99bff6710",
